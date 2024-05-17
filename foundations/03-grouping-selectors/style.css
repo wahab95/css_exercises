@@ -1,0 +1,13 @@
+.buttonf ,
+.buttont {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+}
+.buttonf {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.buttont {
+    background-color: rgb(238, 238, 103);
+}

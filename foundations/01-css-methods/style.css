@@ -1,0 +1,23 @@
+div {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+p {
+    color: white;
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+button{
+    background-color:darkorange ;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    border-width: 0px;
+    
+}
