@@ -22,14 +22,18 @@ body {
 a{
   text-decoration: none;
   color: white;
-  font-size: 20px;
+  font-size: 18px;
 }
 ul{
   list-style-type: none;
+
+  padding-left: 20px;
+
 }
 li{
-  padding: 8px;
+  padding-bottom: 10px;
   font-weight: bold;
+  text-align: left;
 }
 
 .footer {
@@ -45,17 +49,15 @@ li{
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
-}
-.card{
-  width: 350px;
-  height: 250px;
-  gap: 150px;
-  display: inline-flex;
-  justify-content: center;
-  flex-wrap: wrap;
+  padding-right: -30px;
+  flex-shrink: 0;
 }
 
 .card {
+  display: inline-flex;
+  width: 400px;
+  height: 300px;
+  gap: 550px;
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
